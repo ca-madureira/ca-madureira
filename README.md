@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! 👋
+<h3 align="center">Digital Games Student 🎮</h3>
 
 <!--
 **ca-madureira/ca-madureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
