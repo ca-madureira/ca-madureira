@@ -14,6 +14,7 @@ Projetos em Javascript:
 - [Snake Game](https://github.com/ca-madureira/snake-game)
 - [Quebra-Cabeça](https://github.com/ca-madureira/jogo-quebra-cabeca)
 - [Jogo da Memória](https://github.com/ca-madureira/jogo-memoria)
+- [Jogo 2048 ](https://github.com/ca-madureira/game-2048)
 
 Projetos em React JS:
 - [Projeto Rede Social Mern Stack](https://github.com/ca-madureira/rede-social)[Em andamento]
