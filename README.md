@@ -19,6 +19,7 @@ Projetos em Javascript:
 Projetos em React JS:
 - [Projeto Rede Social Mern Stack](https://github.com/ca-madureira/rede-social)[Em andamento]
 - [Todo](https://github.com/ca-madureira/todo-mern)
+- [Chat](https://github.com/ca-madureira/chat-next)
 
 <!--
 **ca-madureira/ca-madureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
