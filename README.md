@@ -23,8 +23,8 @@ Projetos em React JS:
 - [Medicare Booking](https://github.com/ca-madureira/medicare-booking-mern)
 - [Github Finder](https://github.com/ca-madureira/github_finder)
 
-  Projeto em React native
-  -[ecommerce](https://github.com/ca-madureira/fashion-app)
+Projeto em React native
+- [ecommerce](https://github.com/ca-madureira/fashion-app)
 
 <!--
 **ca-madureira/ca-madureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
