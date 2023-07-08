@@ -11,8 +11,8 @@ Jogos em Javascript:
 
 Projetos em React JS:
 - [Projeto Rede Social Mern Stack](https://github.com/ca-madureira/rede-social)[Em andamento]
-- [Todo](https://github.com/ca-madureira/todo-mern)
-- [Chat](https://github.com/ca-madureira/chat-next)
+- [Lista de Tarefas](https://github.com/ca-madureira/todo-mern)
+- [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
 - [Medicare Booking](https://github.com/ca-madureira/medicare-booking-mern)
 - [Github Finder](https://github.com/ca-madureira/github_finder)
 
