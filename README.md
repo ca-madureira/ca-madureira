@@ -14,7 +14,7 @@ Projetos em React JS:
 - [Lista de Tarefas](https://github.com/ca-madureira/todo-mern)
 - [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
 - [Medicare Booking](https://github.com/ca-madureira/medicare-booking-mern)
-- [Github Finder](https://github.com/ca-madureira/github_finder)
+
 
 Projeto em React native
 - [Ecommerce Mobile](https://github.com/ca-madureira/fashion-app)
