@@ -1,7 +1,7 @@
 
 <h3 align="center">Camila Madureira</h3>
 
-Projetos MERN stack:
+MERN stack:
 - [Rede Social ](https://github.com/ca-madureira/rede-social)
 - [Lista de Tarefas](https://github.com/ca-madureira/todo-mern)
 - [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
