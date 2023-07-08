@@ -17,5 +17,5 @@ Projetos em React JS:
 - [Github Finder](https://github.com/ca-madureira/github_finder)
 
 Projeto em React native
-- [ecommerce](https://github.com/ca-madureira/fashion-app)
+- [Ecommerce Mobile](https://github.com/ca-madureira/fashion-app)
 
