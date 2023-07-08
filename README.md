@@ -2,10 +2,10 @@
 <h3 align="center">Camila Madureira</h3>
 
 Projetos MERN stack:
-- [Projeto Rede Social Mern Stack](https://github.com/ca-madureira/rede-social)[Em andamento]
+- [Projeto Rede Social Mern Stack](https://github.com/ca-madureira/rede-social)
 - [Lista de Tarefas](https://github.com/ca-madureira/todo-mern)
 - [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
-- [Medicare Booking](https://github.com/ca-madureira/medicare-booking-mern)
+- [Medicare Booking](https://github.com/ca-madureira/medicare-booking-mern)[Em andamento]
 
 
 React Native:
