@@ -7,6 +7,7 @@ MERN stack:
 - [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
 - [Ecommerce com Nextjs e Typescript](https://github.com/ca-madureira/ecommerce-next)
 - [Chat em React, Node e Socket](https://github.com/ca-madureira/chat-mern)
+- [Blog em React, Node e MongoDB](https://github.com/ca-madureira/blog-mern-stack)
 
 
 React Native:
