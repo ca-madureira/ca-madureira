@@ -1,5 +1,3 @@
-## Olá, sou a Camila! 👋
-
 Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em realidade.
 
 <p align="center">
