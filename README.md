@@ -20,5 +20,5 @@ Formada em Tecnologia em Jogos Digitais e em constante evolução no mundo do de
 
 **Em construção:** 🚧
 
-* **[Social Media]:** (https://github.com/ca-madureira/social-media-mern).
+- [Social Media](https://github.com/ca-madureira/social-media-mern)
 
