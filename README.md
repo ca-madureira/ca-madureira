@@ -18,7 +18,4 @@ Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em r
 
 Formada em Tecnologia em Jogos Digitais e em constante evolução no mundo do desenvolvimento web. Mergulhei no universo full-stack para criar experiências digitais envolventes e funcionais.
 
-**Em construção:** 🚧
-
-- [Social Media](https://github.com/ca-madureira/social-media-mern)
 
