@@ -14,6 +14,12 @@ Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em r
  <img src="https://img.shields.io/badge/Tailwind_CSS-3CB371?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"> 
 </p>
 
+- [Lista de Tarefas](https://github.com/ca-madureira/todo-mern)
+- [Chat em Nextjs](https://github.com/ca-madureira/chat-next)
+- [Ecommerce com Nextjs e Typescript](https://github.com/ca-madureira/ecommerce-next)
+- [Chat em React, Node e Socket](https://github.com/ca-madureira/chat-mern)
+- [Blog em React, Node e MongoDB](https://github.com/ca-madureira/blog-mern-stack)
+
 Formada em Tecnologia em Jogos Digitais e em constante evolução no mundo do desenvolvimento web. Mergulhei no universo full-stack para criar experiências digitais envolventes e funcionais.
 
 
