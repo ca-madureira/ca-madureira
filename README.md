@@ -4,10 +4,6 @@ Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em r
 ## Sobre Mim
 Formada em **Tecnologia em Jogos Digitais** pela **Fatec de Carapicuiba**. Atualmente, estou me aprofundando em desenvolvimento fullstack no **Vai na Web**. Minha paixão por criar experiências digitais me impulsiona a buscar novos desafios e tecnologias.
 
-## Habilidades Técnicas
-* **Fullstack:** Dominando o desenvolvimento de aplicações completas, desde a interface do usuário até a lógica do servidor.
-* **Frontend:** Especializada em criar interfaces intuitivas e responsivas utilizando as tecnologias mais recentes.
-
 ### Tecnologias e Linguagens utilizadas em projetos
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
