@@ -35,5 +35,6 @@ Formada em **Tecnologia em Jogos Digitais** pela **Fatec de Carapicuiba**. Atual
 - [Ecommerce com Nextjs e Typescript](https://github.com/ca-madureira/ecommerce-next)
 - [Chat em React, Node e Socket](https://github.com/ca-madureira/chat-mern)
 - [Blog em React, Node e MongoDB](https://github.com/ca-madureira/blog-mern-stack)
+- [Rede Social AmizApp](https://github.com/ca-madureira/social-media-mern)
 
 
