@@ -46,8 +46,11 @@ Formada em **Tecnologia em Jogos Digitais** pela **Fatec de Carapicuiba**. Atual
 ### 💬 [**Chat em Next.js**](https://github.com/ca-madureira/chat-next)
 - **Descrição**: Chat em tempo real desenvolvido com Next.js e Socket.io.
 
-### 🛍️ [**Floricultura Mern Stack**](https://github.com/ca-madureira/papelaria-mern)
+### 💐 [**Floricultura Mern Stack**](https://github.com/ca-madureira/papelaria-mern)
 - **Descrição**: E-commerce de floricultura desenvolvido em React.js, Typescript, Node.js, Express.js e Mongoose.
+
+### 🛍️ [**Ecommerce Mern Stack**](https://github.com/ca-madureira/ecommerce-mern)
+- **Descrição**: E-commerce de roupas desenvolvido em React.js, Typescript, Node.js, Express.js e Mongoose.
 
 ### 💬 [**Chat em React, Node e Socket**](https://github.com/ca-madureira/chat-mern)
 - **Descrição**: Chat em tempo real utilizando React, Node.js e Socket.io.
