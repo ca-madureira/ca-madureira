@@ -44,9 +44,3 @@ Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em r
 ### 🌐 [**Rede Social AmizApp**](https://github.com/ca-madureira/social-media-mern)
 - **Descrição**: Rede social de amizades com funcionalidades de interação entre usuários, usando o MERN Stack.
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ca-madureira&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=12.1&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" />
-  </a>
-  
-</div>
