@@ -38,25 +38,13 @@ Formada em **Tecnologia em Jogos Digitais** pela **Fatec de Carapicuiba**. Atual
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## Projetos
-
-### ✅ [**Lista de Tarefas**](https://github.com/ca-madureira/todo-mern)
-- **Descrição**: Aplicação de lista de tarefas com funcionalidades de CRUD utilizando o MERN Stack.
-
-### 💬 [**Chat em Next.js**](https://github.com/ca-madureira/chat-next)
-- **Descrição**: Chat em tempo real desenvolvido com Next.js e Socket.io.
+## Projetos Pessoais
 
 ### 💐 [**Floricultura Mern Stack**](https://github.com/ca-madureira/papelaria-mern)
 - **Descrição**: E-commerce de floricultura desenvolvido em React.js, Typescript, Node.js, Express.js e Mongoose.
 
 ### 🛍️ [**Ecommerce Mern Stack**](https://github.com/ca-madureira/ecommerce-mern)
 - **Descrição**: E-commerce de roupas desenvolvido em React.js, Typescript, Node.js, Express.js e Mongoose.
-
-### 💬 [**Chat em React, Node e Socket**](https://github.com/ca-madureira/chat-mern)
-- **Descrição**: Chat em tempo real utilizando React, Node.js e Socket.io.
-
-### 📝 [**Blog em React, Node e MongoDB**](https://github.com/ca-madureira/blog-mern-stack)
-- **Descrição**: Blog desenvolvido com React, Node.js e MongoDB, com recursos de autenticação e CRUD.
 
 ### 🌐 [**Rede Social AmizApp**](https://github.com/ca-madureira/social-media-mern)
 - **Descrição**: Rede social de amizades com funcionalidades de interação entre usuários, usando o MERN Stack.
