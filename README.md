@@ -1,11 +1,6 @@
 # ‍ **Camila Madureira**
 Full-Stack | Front-End | Apaixonada por tecnologia e por transformar ideias em realidade.
 
-## Sobre Mim
-Apaixonada por criar experiências digitais e transformar ideias em soluções inovadoras, tenho me especializado em tecnologias full-stack, com foco em front-end e back-end, buscando sempre aprimorar minhas habilidades e aprender novas tecnologias.
-
-Formada em **Tecnologia em Jogos Digitais** pela **Fatec de Carapicuiba**. Atualmente, estou me aprofundando em desenvolvimento fullstack no **Vai na Web**. Minha paixão por criar experiências digitais me impulsiona a buscar novos desafios e tecnologias.
-
 ### Tecnologias e Linguagens
 
 #### Front-End
