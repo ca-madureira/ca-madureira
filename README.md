@@ -1,5 +1,5 @@
 # 👩‍💻 **Camila Madureira**  
-**Desenvolvedora Full Stack**, com foco em **Front-End**
+**Desenvolvedora Full Stack**
 
 Atualmente me aprofundando em desenvolvimento Full Stack pelo **MaisPraTi** e **Cibersegurança** pelo **Vai Na Web**. Já concluí a formação Full Stack no **Vai Na Web**.
 
